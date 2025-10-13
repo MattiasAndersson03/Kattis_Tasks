@@ -1,0 +1,1 @@
+print("Takk fyrir mig!") # Prints a thank you message
