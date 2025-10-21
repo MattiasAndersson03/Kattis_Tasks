@@ -1,6 +1,6 @@
 a = str(input()).lower() # Convert input to lowercase to handle uppercase letters
 
-print(
+print( # Print the transformed string
     a.replace('a', '@')
     .replace('b', '8')
     .replace('c', '(')
