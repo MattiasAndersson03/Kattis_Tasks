@@ -1,6 +1,6 @@
 a = input().strip() # Read input and remove any surrounding whitespace
 
-vowels = "AEIOU" # Define vowels
+vowels = "AEIOU" # Define the string of vowels
 
 if a in vowels:
     print("Jebb") # Prints "Jebb" if the input is a vowel
